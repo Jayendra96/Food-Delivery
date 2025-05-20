@@ -57,18 +57,18 @@ To run the project locally and explore or contribute, follow these steps:
 ### Clone the Repository
 
 ```bash  
-git clone https://github.com/your-username/your-repo-name.git  
-cd your-repo-name
+git clone [https://github.com/your-username/your-repo-name.git ](https://github.com/Jayendra96/Food-Delivery.git) 
+cd Food-Delivery
 
 **### Install Dependencies**
 
 npm install
 
-**### Run the Development Server**
+### Run the Development Server
 
 npm run dev
 
-**### Folder Structure**
+### Folder Structure
 
 /src  
 |-- /assets        # Images and static assets  
@@ -78,18 +78,23 @@ npm run dev
 |-- index.css      # Styling  
 ...
 
-**### Future Improvements**
+## 🚧 Future Improvements
 
-1. Integrate real-time order tracking
-2. Implement user authentication
-3. Add payment gateway (Stripe, PayPal)
-4. Enhance UI with animations
-5. Improve responsiveness for various devices
-6. Connect to a backend API for dynamic data management
+- Integrate real-time order tracking
+- Implement user authentication
+- Add payment gateway (Stripe, PayPal)
+- Enhance UI with animations
+- Improve responsiveness for various devices
+- Connect to a backend API for dynamic data management
 
-**📞 Contact**
+## 📞 Contact
 
 For questions, feature requests, or support, contact me at: jayendraprakash733@gmail.com
 
+---
+
+## 🎉 Thank You
+
+Enjoy exploring this food delivery web app! 🎈
 
 
